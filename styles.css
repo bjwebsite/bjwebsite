@@ -1,0 +1,90 @@
+body {
+    background-image: url("bg.png");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 80px;
+  }
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.top-header{
+    font-family: Jost;
+    color: rgb(212, 212, 212);
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.slider-title{
+    font-family: Josefin Sans;
+    font-weight: 90000px;
+    color: whitesmoke;
+    letter-spacing: 5px;
+    font-size: 60px;
+    word-spacing: 3px;
+    padding-top: 120px;
+}
+.head{
+    padding-top: 80px;
+}
+.button {
+    border: 2px solid #fafafa;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 40px;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.button:hover {opacity: 1;}
+.topnav {
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    opacity: 0.6;
+    transition: 0.3s;
+  }
+  
+  .topnav a:hover {
+    opacity: 1;
+  }
+  
+  .our-games{
+      font-family: Roboto Slab;
+      color: white;
+      letter-spacing: 5px;
+      font-size: large;
+  }
+  .our-games-table{
+      color: white;
+  }
+.aboutus{
+      font-family: Roboto Slab;
+      color: white;
+      letter-spacing: 5px;
+      font-size: large;
+}
+.aboutusteaser{
+    font-family: Jost;
+    color: rgb(212, 212, 212);
+    font-weight: bolder;
+    font-size: 30px;
+}
+.aboutusimage{
+    padding-left: 180px;
+}
+.footer{
+    color: white;
+}
